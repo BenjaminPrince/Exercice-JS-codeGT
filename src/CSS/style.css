@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: white;
+    color: black;
+}
+
+.delete{
+    background-color:red;
+    border-radius: 25%;
+    color: white;
+    border-color:  transparent ;
+}
+#b1 {
+    background-color: white;
+    border-radius: 10px;
+    color:grey;
+    border-color: whitesmoke;
+    
+}
+
+   
+
